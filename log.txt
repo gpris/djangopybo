@@ -1,0 +1,5 @@
+django-admin startproject config .
+
+python manage.py runserver
+
+django-admin startapp pybo

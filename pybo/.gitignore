@@ -1,2 +1,3 @@
 config/__pycache__/*
 pybo/__pycache__/*
+*.pyc
